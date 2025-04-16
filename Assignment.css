@@ -1,0 +1,57 @@
+.Business{
+    border: 2px solid gainsboro;
+    width: 300px;
+    padding: 50px 20px;
+    border-radius: 10px;
+    background-color: mediumturquoise;
+    font-family: "Montserrat", sans-serif;
+}
+
+.businessp {
+    font-size: 12px;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+}
+
+.ideas{
+    background-color: white;
+    border-radius: 20px;
+    width: 130px;
+    height: 30px;
+    font-size: 13px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.profiles{
+    border: 1px solid gainsboro;
+    border-radius:10px;
+    width: 344px;
+    margin-top: 10px;
+    /* padding: 20px; */
+}
+
+.profileimg{
+     width: 20%;
+     padding: 10px;
+     border-radius: 50%;
+}
+
+.profiles h2{
+    font-family: "Montserrat", sans-serif
+}
+
+.GooglePhotos{
+    border: 2px solid gainsboro;
+    width: 340px;
+    border-radius: 10px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+  
+}
+.details{
+    border: 2px solid gainsboro;
+    width: 130px;
+    margin: 10px;
+    border-radius: 10px;
+}
